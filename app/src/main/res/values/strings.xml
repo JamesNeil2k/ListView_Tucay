@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">UST Colleges</string>
+    <string-array name="Colleges">
+        <item>Institute of Information and Computing Sciences</item>
+        <item>Faculity of Engineering</item>
+        <item>College of Fine Arts and Design</item>
+        <item>Faculity of Arts and Letters</item>
+        <item>Faculty of Medicine</item>
+    </string-array>
+
+    <string-array name="Year">
+        <item>Est. 2014</item>
+        <item>Est. 1907</item>
+        <item>Est. 2000</item>
+        <item>Est. 1896</item>
+        <item>Est. 1871</item>
+    </string-array>
+</resources>
